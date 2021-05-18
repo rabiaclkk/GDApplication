@@ -4,6 +4,7 @@ namespace GDApplication
     partial class AboneGirisForm
     {
         /// <summary>
+        /// sjjsjsjsjjsjsjs
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
