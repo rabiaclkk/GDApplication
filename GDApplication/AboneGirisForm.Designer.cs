@@ -3,7 +3,8 @@ namespace GDApplication
 {
     partial class AboneGirisForm
     {
-        /// <summary>
+        /// <summary>,
+        /// djdjjjd
         /// sjjsjsjsjjsjsjs
         /// Required designer variable.
         /// </summary>
