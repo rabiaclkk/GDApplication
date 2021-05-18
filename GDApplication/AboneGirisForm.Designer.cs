@@ -7,7 +7,7 @@ namespace GDApplication
         /// djdjjjd
         /// sjsjjsjsjsjjsjsj
         /// sjjsjsjsjjsjsjs
-        /// sjsjsjjsjs
+        /// 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
@@ -18,11 +18,12 @@ namespace GDApplication
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
-            if (disposing && (components != null))
+             if (disposing && (components != null))
             {
                 components.Dispose();
             }
             base.Dispose(disposing);
+            components.Dispose();
         }
 
         #region Windows Form Designer generated code
