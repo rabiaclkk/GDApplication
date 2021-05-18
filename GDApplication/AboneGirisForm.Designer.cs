@@ -7,6 +7,7 @@ namespace GDApplication
         /// djdjjjd
         /// sjsjjsjsjsjjsjsj
         /// sjjsjsjsjjsjsjs
+        /// sjsjsjjsjs
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
